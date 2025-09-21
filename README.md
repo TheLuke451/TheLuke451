@@ -1,31 +1,52 @@
 <h1 align='center'>Olá, meu nome é Ricardo 👋</h1>
-
+<p align='center'>
 🎓 Estudante de Ciência da Computação <br> 
 💻 Apaixonado por programação e tecnologia <br>
-🛡️ Futuro Cibersegurança  
+🛡️ Futuro Cibersegurança 
+</p>
 
 
 <h1 align='center'>📚 Atualmente estudando</h1>
 <p align='center'>
-Lógica de programação e estruturas básicas  
-Python para automação e pequenos projetos  
-Linguagem C para fundamentos de baixo nível
-Redes de Computadores
+  <ul>
+    <li>Lógica de programação e estruturas básicas</li> 
+    <li>Python para automação e pequenos projetos</li>  
+    <li>Linguagem C para fundamentos de baixo nível</li>
+    <li>Redes de Computadores</li>
+  </ul>
 </p>
 
-## 🛠️ Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<h1 align='center'>🛠️ Tecnologias</h1>
+<p align='center'>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Linguagem C"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://github.com/TheLuke451">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <h1 align='center'>📊 Estatísticas do Github</h1>
-![Ricardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLuke451&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLuke451&layout=compact&theme=tokyonight)
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 <h1 align='center'>📫 Contato</h1>
-- Email: ricardofernandesdearaujo3@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/ricardo-fernandes-de-araujo-9077ab356
+<p align='center'>
+  <a href="https://www.linkedin.com/in/SEU_PERFIL/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href='mailto:ricardofernandesdearaujo3@hotmail.com'
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook"/>
+  </a>
+</p>
 <!--
 **TheLuke451/TheLuke451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
