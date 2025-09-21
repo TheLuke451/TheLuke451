@@ -1,3 +1,6 @@
+
+<img src="https://exemplo.com/seu-banner.png" alt="Banner Hacker" width="800">
+
 <h1 align='center'>Olá, meu nome é Ricardo 👋</h1>
 <p align='center'>
 🎓 Estudante de Ciência da Computação <br> 
