@@ -8,12 +8,12 @@
 
 <h1 align='center'>📚 Atualmente estudando</h1>
 <p align='center'>
-  <ul align='center'>
-    <li align='center'>Lógica de programação e estruturas básicas</li> 
-    <li align='center'>Python para automação e pequenos projetos</li>  
-    <li align='center'>Linguagem C para fundamentos de baixo nível</li>
-    <li align='center'>Redes de Computadores</li>
-  </ul>
+  <ol align='center'>
+    <li>Lógica de programação e estruturas básicas</li> 
+    <li>Python para automação e pequenos projetos</li>  
+    <li>Linguagem C para fundamentos de baixo nível</li>
+    <li>Redes de Computadores</li>
+  </ol>
 </p>
 
 <h1 align='center'>🛠️ Tecnologias</h1>
