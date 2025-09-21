@@ -1,4 +1,4 @@
-##Olá, meu nome é Ricardo 👋
+## Olá, meu nome é Ricardo 👋
 
 🎓 Estudante de Ciência da Computação | 💻 Apaixonado por programação e tecnologia | 
 Futuro Cibersegurança 🔐  
