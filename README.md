@@ -1,10 +1,9 @@
 <h1 align='center'>Olá, meu nome é Ricardo 👋</h1>
 
-<p align = "center">
 🎓 Estudante de Ciência da Computação <br> 
 💻 Apaixonado por programação e tecnologia <br>
 🛡️ Futuro Cibersegurança  
-</p>
+
 
 <h1 align='center'>📚 Atualmente estudando</h1> 
 - Lógica de programação e estruturas básicas  
