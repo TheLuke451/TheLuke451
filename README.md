@@ -15,6 +15,7 @@
     Python para automação e pequenos projetos <br>
     Linguagem C para fundamentos de baixo nível <br>
     Redes de Computadores <br>
+    Fundamentos do Linux com Kali Linux
 </p>
 
 <h1 align='center'>🛠️ Tecnologias</h1>
