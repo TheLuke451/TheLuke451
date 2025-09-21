@@ -1,5 +1,5 @@
 
-<img src="https://exemplo.com/seu-banner.png" alt="Banner Hacker" width="800">
+<img src="https://ik.imagekit.io/smdxc0e2g3/userscontent2-endpoint/images/61644977-0a3d-490f-9bb2-0750827f5881/8250b266b44bb383a50fd58f45dbfe64.gif" alt="Banner Hacker" width="800">
 
 <h1 align='center'>Olá, meu nome é Ricardo 👋</h1>
 <p align='center'>
