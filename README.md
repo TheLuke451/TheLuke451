@@ -8,7 +8,7 @@
 
 <h1 align='center'>📚 Atualmente estudando</h1>
 <p align='center'>
-  <ul>
+  <ul align='center'>
     <li>Lógica de programação e estruturas básicas</li> 
     <li>Python para automação e pequenos projetos</li>  
     <li>Linguagem C para fundamentos de baixo nível</li>
@@ -45,6 +45,9 @@
   </a>
   <a href='mailto:ricardofernandesdearaujo3@hotmail.com'>
       <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href='mailto:ric.araujo2007@gmail.com'>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 <!--
