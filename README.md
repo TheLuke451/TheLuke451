@@ -22,7 +22,6 @@ Futuro Cibersegurança 🔐
 ## 📫 Contato
 - Email: ricardofernandesdearaujo3@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/ricardo-fernandes-de-araujo-9077ab356
-- 
 <!--
 **TheLuke451/TheLuke451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
