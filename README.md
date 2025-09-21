@@ -5,11 +5,13 @@
 🛡️ Futuro Cibersegurança  
 
 
-<h1 align='center'>📚 Atualmente estudando</h1> 
-- Lógica de programação e estruturas básicas  
-- **Python** para automação e pequenos projetos  
-- **C** para fundamentos de baixo nível
-- Redes de Computadores
+<h1 align='center'>📚 Atualmente estudando</h1>
+<p align='center'>
+Lógica de programação e estruturas básicas  
+Python para automação e pequenos projetos  
+Linguagem C para fundamentos de baixo nível
+Redes de Computadores
+</p>
 
 <h1 align='center'>🛠️ Tecnologias</h1>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
