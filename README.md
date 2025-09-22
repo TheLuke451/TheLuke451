@@ -20,7 +20,7 @@
 
 ---
 
-<img src="https://media.tenor.com/tNGtfhqJWP0AAAAM/haxor.gif" alt="Hacker GIF" width="500px" height="650px">
+<img src="https://media.tenor.com/tNGtfhqJWP0AAAAM/haxor.gif" alt="Hacker GIF" align='center' width="500px" height="650px">
 
 ---
 
