@@ -19,11 +19,7 @@
 </p>
 
 #
-
-<a align='center'>
-    <img src="https://media.tenor.com/tNGtfhqJWP0AAAAM/haxor.gif" alt="Hacker GIF" align="center" width="500px" height="650px">
-</a>
-
+<img src="https://media.tenor.com/tNGtfhqJWP0AAAAM/haxor.gif" alt="Hacker GIF" align="center" width="500px" height="650px">
 #
 
 <h1 align='center'>🛠️ Tecnologias</h1>
