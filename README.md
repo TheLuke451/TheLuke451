@@ -18,9 +18,13 @@
     Fundamentos do Linux com Kali Linux
 </p>
 
+#
+
 <a align='center'>
-    <img src="https://media.tenor.com/tNGtfhqJWP0AAAAM/haxor.gif" alt="Hacker GIF" width="500px" height="650px">
+    <img src="https://media.tenor.com/tNGtfhqJWP0AAAAM/haxor.gif" alt="Hacker GIF" align="center" width="500px" height="650px">
 </a>
+
+#
 
 <h1 align='center'>🛠️ Tecnologias</h1>
 <p align='center'>
