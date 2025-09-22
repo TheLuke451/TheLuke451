@@ -18,7 +18,7 @@
     Fundamentos do Linux com Kali Linux
 </p>
 
-<h1 align='center'>🛠️ Tecnologias</h1>
+<h1 align='center' style="background-color:#000; padding:10px; border-radius:10px;">🛠️ Tecnologias</h1>
 <p align='center'>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
