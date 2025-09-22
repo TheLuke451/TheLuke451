@@ -1,7 +1,7 @@
 
 <img src="https://ik.imagekit.io/smdxc0e2g3/userscontent2-endpoint/images/61644977-0a3d-490f-9bb2-0750827f5881/8250b266b44bb383a50fd58f45dbfe64.gif" alt="Banner Hacker" width="850" height='200'>
 
-<img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-2.gif" alt="Hacker GIF" align="right" width="400px" height="600px">
+<img src="https://i.pinimg.com/originals/f8/39/84/f839845d5a8f6634e206e22fe8fc780e.gif" alt="Hacker GIF" align="right" width="400px" height="600px">
 <h1>Olá, meu nome é Ricardo Fernandes!👋</h1>
 <p>
 🎓 Estudante de Ciência da Computação <br> 
