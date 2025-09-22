@@ -1,7 +1,7 @@
 
 <img src="https://ik.imagekit.io/smdxc0e2g3/userscontent2-endpoint/images/61644977-0a3d-490f-9bb2-0750827f5881/8250b266b44bb383a50fd58f45dbfe64.gif" alt="Banner Hacker" width="850" height='200'>
 
-<h1 align='center' style='color:green;'>Olá, meu nome é Ricardo Fernandes!👋</h1>
+<h1 align='center'>Olá, meu nome é Ricardo Fernandes!👋</h1>
 <p align='center'>
 🎓 Estudante de Ciência da Computação <br> 
 💻 Apaixonado por programação e tecnologia <br>
@@ -18,7 +18,7 @@
     Fundamentos do Linux com Kali Linux
 </p>
 
-<h1 align='center' style="background-color:#000; padding:10px; border-radius:10px;">🛠️ Tecnologias</h1>
+<h1 align='center'>🛠️ Tecnologias</h1>
 <p align='center'>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
