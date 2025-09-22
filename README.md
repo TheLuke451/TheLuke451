@@ -1,16 +1,16 @@
 
 <img src="https://ik.imagekit.io/smdxc0e2g3/userscontent2-endpoint/images/61644977-0a3d-490f-9bb2-0750827f5881/8250b266b44bb383a50fd58f45dbfe64.gif" alt="Banner Hacker" width="850" height='200'>
 
-<h1>Olá, meu nome é Ricardo Fernandes!👋</h1>
-<p>
+<h1 align='center'>Olá, meu nome é Ricardo Fernandes!👋</h1>
+<p align='center'>
 🎓 Estudante de Ciência da Computação <br> 
 💻 Apaixonado por programação e tecnologia <br>
 🛡️ Futuro Cibersegurança 
 </p>
 
 
-<h1>📚 Atualmente estudando</h1>
-<p>
+<h1 align='center'>📚 Atualmente estudando</h1>
+<p align='center'>
     Lógica de programação e estruturas básicas <br>
     Python para automação e pequenos projetos <br>
     Linguagem C para fundamentos de baixo nível <br>
@@ -19,9 +19,9 @@
 </p>
 
 ---
-
-<img src="https://media.tenor.com/tNGtfhqJWP0AAAAM/haxor.gif" alt="Hacker GIF" align='center' width="500px" height="650px">
-
+<a align='center'>
+    <img src="https://media.tenor.com/tNGtfhqJWP0AAAAM/haxor.gif" alt="Hacker GIF" width="500px" height="650px">
+</a>
 ---
 
 <h1 align='center'>🛠️ Tecnologias</h1>
