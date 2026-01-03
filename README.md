@@ -9,16 +9,6 @@
 </p>
 
 
-<h1 align='center'>📚 Atualmente estudando</h1>
-<p align='center'>
-    Lógica de programação e estruturas básicas <br>
-    Python para automação e pequenos projetos <br>
-    Linguagem C para fundamentos de baixo nível <br>
-    Redes de Computadores <br>
-    Fundamentos do Linux com Kali Linux
-</p>
-
-
 <h1 align='center'>🛠️ Tecnologias</h1>
 <p align='center'>
   <a href="https://www.python.org/">
