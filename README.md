@@ -33,8 +33,7 @@
 
 <h1 align='center'>📊 Estatísticas do Github</h1>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLuke451&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLuke451&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=TheLuke451" alt="Top Languages"/>
 </p>
 
 <h1 align='center'>📫 Contato</h1>
