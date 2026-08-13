@@ -34,7 +34,7 @@
 <h1 align='center'>📊 Estatísticas do Github</h1>
 <p align='center'>
   <img src="https://github-stats-extended.vercel.app/api?username=TheLuke451&show_icons=true&theme=dark#gh-dark-mode-only" alt="Estatísticas"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheLuke451&show_icons=true&theme=dark#gh-dark-mode-only" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheLuke451&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only" alt="Top Languages"/>
 </p>
 
 <h1 align='center'>📫 Contato</h1>
