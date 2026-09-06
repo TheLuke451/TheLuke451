@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https%3A%2F%2Fpreview.redd.it%2Fmy-unfinished-drawing-of-vergil-v0-ymzc8390ylke1.jpeg" width=30% align="right">
+  <img src="assets/sddefault.jpg" width=30% align="right">
   
   <pre>
 <b>████████╗██╗  ██╗███████╗██╗     ██╗   ██╗██╗  ██╗███████╗
