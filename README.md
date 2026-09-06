@@ -1,6 +1,6 @@
 
 <div>
-  <img src="assets/vergil.png" width=32% align="right">
+  <img src="assets/vergil.png" width=32% height=20% align="right">
   
   <pre>
 <b>████████╗██╗  ██╗███████╗██╗     ██╗   ██╗██╗  ██╗███████╗
