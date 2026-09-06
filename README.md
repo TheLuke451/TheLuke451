@@ -1,6 +1,6 @@
 
 <div>
-  <img src="assets/sddefault.jpg" width=30% align="right">
+  <img src="assets/vergil.png" width=32% align="right">
   
   <pre>
 <b>████████╗██╗  ██╗███████╗██╗     ██╗   ██╗██╗  ██╗███████╗
