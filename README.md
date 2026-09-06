@@ -20,6 +20,16 @@
 <hr>
 <br>
 
+<h1 align='center'> ━━━━ Estatísticas ━━━━ </h1>
+<br>
+<p align='center'>
+  <img src="https://github-stats-extended.vercel.app/api?username=TheLuke451&show_icons=true&theme=dark#gh-dark-mode-only" alt="Estatísticas"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheLuke451&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only" alt="Top Languages"/>
+</p>
+
+<hr>
+<br>
+
 <h1 align='center'> ━━━━ Habilidades ━━━━ </h1>
 
 <br/>
@@ -56,11 +66,6 @@
 <br/><hr>
 
 
-<h1 align='center'> ━━━━ Estatísticas ━━━━ </h1>
-<br><br>
-<p align='center'>
-  <img src="https://github-stats-extended.vercel.app/api?username=TheLuke451&show_icons=true&theme=dark#gh-dark-mode-only" alt="Estatísticas"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheLuke451&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only" alt="Top Languages"/>
-</p>
+
 
 
