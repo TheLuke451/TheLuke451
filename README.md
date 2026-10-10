@@ -23,8 +23,8 @@
 <h1 align='center'> ━━━━ Estatísticas ━━━━ </h1>
 <br>
 <p align='center'>
-  <img src="https://github-stats-extended.vercel.app/api?username=TheLuke451&show_icons=true&theme=dark#gh-dark-mode-only" alt="Estatísticas"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheLuke451&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=TheLuke451&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Estatísticas"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TheLuke451&layout=donut&langs_count=5&theme=midnight-purple" alt="Top Languages"/>
 </p>
 
 <hr>
