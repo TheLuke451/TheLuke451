@@ -23,8 +23,8 @@
 <h1 align='center'> ━━━━ Estatísticas ━━━━ </h1>
 <br>
 <p align='center'>
-  <img src="https://github-stats-extended.vercel.app/api?username=TheLuke451&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Estatísticas"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TheLuke451&layout=donut&langs_count=5&theme=midnight-purple" alt="Top Languages"/>
+  <img src="./profile/stats.svg" alt="Estatísticas"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <hr>
